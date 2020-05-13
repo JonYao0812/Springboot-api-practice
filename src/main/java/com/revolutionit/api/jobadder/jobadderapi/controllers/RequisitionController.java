@@ -17,9 +17,6 @@ import org.springframework.web.bind.annotation.RestController;
 class RequisitionController {
   @Autowired
   RequisitionService service;
-//  RequisitionController(RequisitionRepository repo) {
-//    this.repo = repo;
-//  }
 
   @GetMapping("/requisitions")
   List<Requisition> all() {
