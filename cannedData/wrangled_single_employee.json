@@ -1,0 +1,20 @@
+[
+	{
+   "id":"208",
+   "name":"Aamal Hurree",
+   "practice":"Functional services",
+   "location":"QLD",
+   "empType":"Contractor - Independent",
+	 "project":[{"resourceAllocationID":"2492","startDate":"03/18/2019","endDate":"06/28/2019","projectName":"IT Costs Upstream CSG/Apling","client":"Origin Energy Services Limited"},
+	 {"resourceAllocationID":"5286","startDate":"07/01/2019","endDate":"06/30/2020","projectName":"2018-2019 Integrated Gas Portfolio Testing Services","client":"Origin Energy Services Limited"}]
+	},
+	{
+   "id":"207",
+   "name":"Aree Smith",
+   "practice":"Automation services",
+   "location":"NSW",
+   "empType":"Contractor - Independent",
+     "project":[{"resourceAllocationID":"2492","startDate":"03/18/2019","endDate":"06/28/2019","projectName":"IT Costs Upstream CSG/Apling","client":"Origin Energy Services Limited"}]
+
+}
+]

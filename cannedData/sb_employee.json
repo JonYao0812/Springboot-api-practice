@@ -1,0 +1,171 @@
+[
+
+     {
+        "recordType": "employee",
+        "id": "208",
+        "values": {
+            "entityid": "Aamal Hurree",
+            "CUSTRECORD_PR_LR_EMPLOYEE.internalid": [],
+            "CUSTRECORD_PR_LR_EMPLOYEE.custrecord_pr_lr_leave_type": [],
+            "CUSTRECORD_PR_LR_EMPLOYEE.custrecord_pr_lr_start": "",
+            "CUSTRECORD_PR_LR_EMPLOYEE.custrecord_pr_lr_end": "",
+            "resourceAllocation.internalid": [
+                {
+                    "value": "2492",
+                    "text": "2492"
+                }
+            ],
+            "resourceAllocation.customer": [
+                {
+                    "value": "2109",
+                    "text": "Origin Energy Services Limited"
+                }
+            ],
+            "resourceAllocation.startdate": "18/03/2019",
+            "resourceAllocation.enddate": "28/06/2019",
+            "subsidiarynohierarchy": [
+                {
+                    "value": "3",
+                    "text": "Revolution IT"
+                }
+            ],
+            "subsidiary.internalid": [
+                {
+                    "value": "3",
+                    "text": "3"
+                }
+            ],
+            "laborcost": "10.00",
+            "location": [
+                {
+                    "value": "4",
+                    "text": "Australia : Queensland"
+                }
+            ],
+            "departmentnohierarchy": [
+                {
+                    "value": "15",
+                    "text": "Functional services"
+                }
+            ],
+            "employeetype": [
+                {
+                    "value": "18",
+                    "text": "Contractor - Independent"
+                }
+            ],
+            "resourceAllocation.company": [
+                {
+                    "value": "6802",
+                    "text": "0120 IT Costs Upstream CSG/Apling"
+                }
+            ],
+            "resourceAllocation.projecttask": [
+                {
+                    "value": "2986",
+                    "text": "Task-Initial (Aamal Hurree)"
+                }
+            ],
+            "CUSTRECORD_PR_LR_EMPLOYEE.custrecord_pr_lr_status": [],
+            "employeestatus": [
+                {
+                    "value": "2",
+                    "text": "Active"
+                }
+            ],
+            "hiredate": "18/03/2019"
+        }
+    },
+    {
+        "recordType": "employee",
+        "id": "407",
+        "values": {
+            "entityid": "Riddhi Mudaliar",
+            "CUSTRECORD_PR_LR_EMPLOYEE.internalid": [
+                {
+                    "value": "1107",
+                    "text": "1107"
+                }
+            ],
+            "CUSTRECORD_PR_LR_EMPLOYEE.custrecord_pr_lr_leave_type": [
+                {
+                    "value": "21",
+                    "text": "Annual Leave"
+                }
+            ],
+            "CUSTRECORD_PR_LR_EMPLOYEE.custrecord_pr_lr_start": "29/07/2019",
+            "CUSTRECORD_PR_LR_EMPLOYEE.custrecord_pr_lr_end": "29/07/2019",
+            "resourceAllocation.internalid": [
+                {
+                    "value": "14774",
+                    "text": "14774"
+                }
+            ],
+            "resourceAllocation.customer": [
+                {
+                    "value": "2134",
+                    "text": "Australian Red Cross"
+                }
+            ],
+            "resourceAllocation.startdate": "02/03/2020",
+            "resourceAllocation.enddate": "31/08/2020",
+            "subsidiarynohierarchy": [
+                {
+                    "value": "3",
+                    "text": "Revolution IT"
+                }
+            ],
+            "subsidiary.internalid": [
+                {
+                    "value": "3",
+                    "text": "3"
+                }
+            ],
+            "laborcost": "10.00",
+            "location": [
+                {
+                    "value": "2",
+                    "text": "Australia : Victoria"
+                }
+            ],
+            "departmentnohierarchy": [
+                {
+                    "value": "15",
+                    "text": "Functional services"
+                }
+            ],
+            "employeetype": [
+                {
+                    "value": "15",
+                    "text": "Permanent - Full Time"
+                }
+            ],
+            "resourceAllocation.company": [
+                {
+                    "value": "15365",
+                    "text": "0635 BAU Backfill"
+                }
+            ],
+            "resourceAllocation.projecttask": [
+                {
+                    "value": "14775",
+                    "text": "ENDS 31/08/20 (Riddhi)"
+                }
+            ],
+            "CUSTRECORD_PR_LR_EMPLOYEE.custrecord_pr_lr_status": [
+                {
+                    "value": "5",
+                    "text": "Processed"
+                }
+            ],
+            "employeestatus": [
+                {
+                    "value": "3",
+                    "text": "Probation"
+                }
+            ],
+            "hiredate": "08/04/2019"
+        }
+    }
+
+]
